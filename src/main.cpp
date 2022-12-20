@@ -26,7 +26,7 @@ in later programs - so is left explicit for now  */
 static const GLfloat g_vertex_buffer_data[] = {
 		-1.0f, -1.0f, 0.0f,
 		1.0f, -1.0f, 0.0f,
-		0.0f, 3.0f, 0.0f
+		0.0f, 1.0f, 0.0f
 	};
 
 /* A big global wrapper for all our data */
