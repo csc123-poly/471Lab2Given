@@ -2,3 +2,5 @@ build/
 .DS_Store
 .vs
 Debug/
+x64/
+.vs/
