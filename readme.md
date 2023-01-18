@@ -1,5 +1,8 @@
 
 
+Build Instructions
+=================
+
 Orientation
 ===============
 Introduction to graphics - Getting Started
