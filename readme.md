@@ -26,7 +26,7 @@ Step 1:
 Go to the GLM release page on Github and download the zip file for the latest release. Find and download the lastest release
 https://github.com/g-truc/glm/releases  You can also use a package manager to install if desired.
 Step 2: 
-Extract the contents of the ‘glm’ directory out of the zip file and to your library directory. 
+Extract the contents of the ‘glm’ directory out of the zip file and to your library directory. (For Windows, set the environment variables to GLFW_DIR)
 
 
 
@@ -34,7 +34,7 @@ Extract the contents of the ‘glm’ directory out of the zip file and to your 
 Step 1: 
 Visit https://github.com/glfw/glfw/releases and download the latest version as a zip file. This should be done through the link glfw-3.x.x.zip, not the WIN32, WIN64, or MACOS links. You can also use a package manager to install if desired.
 Step 2: 
-Extract the zip contents into your graphics library directory. 
+Extract the zip contents into your graphics library directory. (For Windows, set the environment variables to GLM_INCLUDE_DIR)
 
 
 
